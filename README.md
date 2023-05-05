@@ -1,7 +1,17 @@
-# Algoritmos
+# Algoritmos - Curso em Vídeo
 
-## _Portuguese only_
+Este repositório contém estudos, atividades e exercícios de algoritmos realizados por mim no curso oferecido pelo professor Gustavo Guanabara no site [cursoemvideo.com](https://www.cursoemvideo.com/).
 
-Repositório dedicado inteiramente aos estudos e atividades de algoritmos do cursoemvideo.com
+## Executando
 
-Utilize a extensão [Design Líquido - Linguagens em Português](https://github.com/DesignLiquido/vscode) do VSCode, para a visualização e depuração de arquivos .alg
+Para visualizar e depurar os arquivos `.alg`, instale a extensão [Design Líquido - Linguagens em Português](https://github.com/DesignLiquido/vscode) no Visual Studio Code.
+
+Se algum arquivo não executar devido a um erro da extensão, utilize o [VisuAlg](https://visualg3.com.br/).
+
+## Contribuição
+
+Por ser um material de estudos particular, não estou aceitando contribuições para este repositório.
+
+## Licença
+
+Distribuído sob a [Licença MIT](LICENSE).
